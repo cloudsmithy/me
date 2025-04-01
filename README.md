@@ -22,6 +22,7 @@
 - 🧑‍🤝‍🧑 [AWS 用户组 Meetup 分享](https://dev.amazoncloud.cn/activity/activityDetail/meetup?id=6768e9f6ac1c0261e67a8d2a)
 - 🏙️ [AWS Summit 技术演讲页面](https://dev.amazoncloud.cn/activity/activityDetail/techtalk?id=66546017b21b48067e5632c5)
 - 🎨 [设计实验《灵魂画手》：基于 Amazon Bedrock 的动图生成与风格迁移](https://dev.amazoncloud.cn/experience/cloudlab?id=6711c3da04dffe0cb28f976b)
+- [亚麻拉松 - 12 小时极客说](https://www.infoq.cn/article/oFeG5OrUAAaP9jLMIqVO)
 
 ------
 
