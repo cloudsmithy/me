@@ -45,9 +45,10 @@
 - [Coco AI 智能检索 Hugo Blog 集成指南](https://mp.weixin.qq.com/s/SwHxXuGOWRgZDONXRVPy-w)
 - [INFINI Easysearch 尝鲜 Hands-on｜征文系列](https://mp.weixin.qq.com/s/OLdD3KkgXK5Q4e2RDzMD8Q)
 - [使用 Elasticsearch Python SDK 查询 Easysearch｜征文系列](https://mp.weixin.qq.com/s/oZkKLdPVYjN4UQ5Yqv6Mrw)
-- [快照兼容对比：Easysearch vs Elasticsearch vs OpenSearch](https://mp.weixin.qq.com/s/eRBc9lkQCUAJEL4y8zkz5A)
+- [快照兼容对比：Easysearch vs Elasticsearch vs OpenSearch](https://mp.weixin.qq.com/s/eRBc9lkCUAJEL4y8zkz5A)
 - [玩转 Easysearch 查询语法｜征文系列](https://mp.weixin.qq.com/s/Ayd-ZlkCw7yssdpD02vYWw)
 - [INFINI Console 使用介绍｜可视化管理平台](https://mp.weixin.qq.com/s/4JuN2xFLv8nrtbBiRG3-kw)
+
 
 ### 📌 亚马逊云科技公众号转载
 
@@ -64,7 +65,8 @@
 ![技术演讲封面](https://raw.githubusercontent.com/Xu-Hardy/picgo-imh/master/image-20250401143152394.png)
 
 ------
-
+Easysearch  文章一栏：
 ![image-20250401203242359](https://raw.githubusercontent.com/Xu-Hardy/picgo-imh/master/image-20250401203242359.png)
 
+OpenSearch 文章一栏：
 ![image-20250401203306337](https://raw.githubusercontent.com/Xu-Hardy/picgo-imh/master/image-20250401203306337.png)
