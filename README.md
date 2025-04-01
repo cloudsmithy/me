@@ -1,3 +1,6 @@
+# About me
+
+
 AWS Community Builders（AI Track）、AWS认证技术博主、Milvus 北辰使者、极限科技技术博主。  
 专注于 Python 后端开发与 AI 服务部署，熟悉亚马逊云科技（AWS）主流服务，包括 Lambda、API Gateway、SageMaker、Bedrock、OpenSearch 等，具备扎实的工程实践能力与系统构建经验。
 
