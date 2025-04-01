@@ -1,9 +1,10 @@
-AWS Community Builders（AI Track）、AWS 认证技术博主、、极限科技博主、Milvus 北辰使者。
-专注于 Python 后端开发与 AI 服务部署，熟悉亚马逊云科技（AWS）主流服务，包括 Lambda、API Gateway、SageMaker、Bedrock、OpenSearch 等，具备扎实的工程实践能力与系统构建经验。
+亚马逊云科技（AWS） Community Builders（AI）、亚马逊云科技（AWS）中国技领云博主、极限科技技术博主、Milvus 北辰使者。
 
-热衷开发效率工具与自动化脚本，常年在本地搭建 Homelab 环境，部署自研工具与开源项目，探索大模型的本地推理、私有化集成与性能优化方案。
+ 专注于 Python 后端开发与 AI 服务部署，熟练掌握亚马逊云科技（AWS）核心服务，包括 Lambda、API Gateway、SageMaker、Bedrock、OpenSearch 等，具备扎实的工程实践能力与系统架构经验。
 
-曾在 AWS 上海 Summit 和AWS user group中担任讲师，积极推动技术传播与社区建设。
+热衷于开发效率工具与自动化脚本，常年在本地构建 Homelab 环境，部署自研工具与开源项目，深入探索大模型的本地推理、私有化部署与性能优化路径。
+
+曾在亚马逊云科技（AWS）上海 Summit 及User Group活动中担任讲师，积极推动技术传播与开发者社区建设。
 
 ------
 
@@ -20,6 +21,7 @@ AWS Community Builders（AI Track）、AWS 认证技术博主、、极限科技�
 
 - 🧑‍🤝‍🧑 [AWS 用户组 Meetup 分享](https://dev.amazoncloud.cn/activity/activityDetail/meetup?id=6768e9f6ac1c0261e67a8d2a)
 - 🏙️ [AWS Summit 技术演讲页面](https://dev.amazoncloud.cn/activity/activityDetail/techtalk?id=66546017b21b48067e5632c5)
+- 🎨 [设计实验《灵魂画手》：基于 Amazon Bedrock 的动图生成与风格迁移](https://dev.amazoncloud.cn/experience/cloudlab?id=6711c3da04dffe0cb28f976b)
 
 ------
 
@@ -41,11 +43,11 @@ AWS Community Builders（AI Track）、AWS 认证技术博主、、极限科技�
 
 - [MacBook Pro 快速搭建 Easysearch 学习环境](https://mp.weixin.qq.com/s/4uyXHzuxuMHnWWd4UnShSg)
 - [Coco AI 智能检索 Hugo Blog 集成指南](https://mp.weixin.qq.com/s/SwHxXuGOWRgZDONXRVPy-w)
-- [INFINI Easysearch 尝鲜 Hands-on | 征文系列](https://mp.weixin.qq.com/s/OLdD3KkgXK5Q4e2RDzMD8Q)
-- [使用 Elasticsearch Python SDK 查询 Easysearch | 征文系列](https://mp.weixin.qq.com/s/oZkKLdPVYjN4UQ5Yqv6Mrw)
-- [快照兼容对比 | Easysearch vs Elasticsearch vs OpenSearch](https://mp.weixin.qq.com/s/eRBc9lkQCUAJEL4y8zkz5A)
-- [玩转 Easysearch 查询语法 | 征文系列](https://mp.weixin.qq.com/s/Ayd-ZlkCw7yssdpD02vYWw)
-- [INFINI Console 使用介绍 | 可视化管理平台](https://mp.weixin.qq.com/s/4JuN2xFLv8nrtbBiRG3-kw)
+- [INFINI Easysearch 尝鲜 Hands-on｜征文系列](https://mp.weixin.qq.com/s/OLdD3KkgXK5Q4e2RDzMD8Q)
+- [使用 Elasticsearch Python SDK 查询 Easysearch｜征文系列](https://mp.weixin.qq.com/s/oZkKLdPVYjN4UQ5Yqv6Mrw)
+- [快照兼容对比：Easysearch vs Elasticsearch vs OpenSearch](https://mp.weixin.qq.com/s/eRBc9lkQCUAJEL4y8zkz5A)
+- [玩转 Easysearch 查询语法｜征文系列](https://mp.weixin.qq.com/s/Ayd-ZlkCw7yssdpD02vYWw)
+- [INFINI Console 使用介绍｜可视化管理平台](https://mp.weixin.qq.com/s/4JuN2xFLv8nrtbBiRG3-kw)
 
 ### 📌 亚马逊云科技公众号转载
 
@@ -60,3 +62,9 @@ AWS Community Builders（AI Track）、AWS 认证技术博主、、极限科技�
 ------
 
 ![技术演讲封面](https://raw.githubusercontent.com/Xu-Hardy/picgo-imh/master/image-20250401143152394.png)
+
+------
+
+![image-20250401203242359](https://raw.githubusercontent.com/Xu-Hardy/picgo-imh/master/image-20250401203242359.png)
+
+![image-20250401203306337](https://raw.githubusercontent.com/Xu-Hardy/picgo-imh/master/image-20250401203306337.png)
