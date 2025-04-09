@@ -50,6 +50,7 @@
 - [快照兼容对比：Easysearch vs Elasticsearch vs OpenSearch](https://mp.weixin.qq.com/s/eRBc9lkCUAJEL4y8zkz5A)
 - [玩转 Easysearch 查询语法｜征文系列](https://mp.weixin.qq.com/s/Ayd-ZlkCw7yssdpD02vYWw)
 - [INFINI Console 使用介绍｜可视化管理平台](https://mp.weixin.qq.com/s/4JuN2xFLv8nrtbBiRG3-kw)
+- [Coco-AI 支持嵌入，让你的网站拥有 AI 搜索力](https://mp.weixin.qq.com/s/TKRu46c1ippQIP3hOjqTqw)
 
 
 ### 📌 亚马逊云科技公众号转载
