@@ -43,14 +43,15 @@
 
 ### 📌 极限科技公众号转载
 
-- [MacBook Pro 快速搭建 Easysearch 学习环境](https://mp.weixin.qq.com/s/4uyXHzuxuMHnWWd4UnShSg)
-- [Coco AI 智能检索 Hugo Blog 集成指南](https://mp.weixin.qq.com/s/SwHxXuGOWRgZDONXRVPy-w)
+- [Coco AI 智能检索 Hugo Blog 集成指南](https://mp.weixin.qq.com/s/4uyXHzuxuMHnWWd4UnShSg)
+- [MacBook Pro 快速搭建 Easysearch 学习环境](https://mp.weixin.qq.com/s/SwHxXuGOWRgZDONXRVPy-w)
 - [INFINI Easysearch 尝鲜 Hands-on｜征文系列](https://mp.weixin.qq.com/s/OLdD3KkgXK5Q4e2RDzMD8Q)
 - [使用 Elasticsearch Python SDK 查询 Easysearch｜征文系列](https://mp.weixin.qq.com/s/oZkKLdPVYjN4UQ5Yqv6Mrw)
 - [快照兼容对比：Easysearch vs Elasticsearch vs OpenSearch](https://mp.weixin.qq.com/s/eRBc9lkCUAJEL4y8zkz5A)
 - [玩转 Easysearch 查询语法｜征文系列](https://mp.weixin.qq.com/s/Ayd-ZlkCw7yssdpD02vYWw)
 - [INFINI Console 使用介绍｜可视化管理平台](https://mp.weixin.qq.com/s/4JuN2xFLv8nrtbBiRG3-kw)
 - [Coco-AI 支持嵌入，让你的网站拥有 AI 搜索力](https://mp.weixin.qq.com/s/TKRu46c1ippQIP3hOjqTqw)
+- [Coco AI 如何接入自定义数据源](https://mp.weixin.qq.com/s/218ozutc8kMmpyZBfKBJPg)
 
 
 ### 📌 亚马逊云科技公众号转载
