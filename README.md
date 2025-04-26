@@ -65,6 +65,8 @@
 - [使用 es-dump 快速备份 ES 数据](https://mp.weixin.qq.com/s/wHthVxwoqyWWz6aUpuaCWw)
 
 ------
+用GPT搜索我:
+![image-20250426215435440](https://raw.githubusercontent.com/cloudsmithy/picgo-imh/master/image-20250426215435440.png)
 
 ![技术演讲封面](https://raw.githubusercontent.com/Xu-Hardy/picgo-imh/master/image-20250401143152394.png)
 
