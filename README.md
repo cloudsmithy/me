@@ -52,6 +52,7 @@
 - [INFINI Console 使用介绍｜可视化管理平台](https://mp.weixin.qq.com/s/4JuN2xFLv8nrtbBiRG3-kw)
 - [Coco-AI 支持嵌入，让你的网站拥有 AI 搜索力](https://mp.weixin.qq.com/s/TKRu46c1ippQIP3hOjqTqw)
 - [Coco AI 如何接入自定义数据源](https://mp.weixin.qq.com/s/218ozutc8kMmpyZBfKBJPg)
+- [MySQL 数据实时接入 Easysearch，零代码迁移全流程](https://mp.weixin.qq.com/s/YaB6fpqbLBhLQOzfpCUiGQ)
 
 
 ### 📌 亚马逊云科技公众号转载
