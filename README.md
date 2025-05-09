@@ -55,6 +55,7 @@
 - [Coco-AI 支持嵌入，让你的网站拥有 AI 搜索力](https://mp.weixin.qq.com/s/TKRu46c1ippQIP3hOjqTqw)
 - [Coco AI 如何接入自定义数据源](https://mp.weixin.qq.com/s/218ozutc8kMmpyZBfKBJPg)
 - [MySQL 数据实时接入 Easysearch，零代码迁移全流程](https://mp.weixin.qq.com/s/YaB6fpqbLBhLQOzfpCUiGQ)
+- [从认证到透传：用 Nginx 为 Easysearch 构建一体化认证网关](https://mp.weixin.qq.com/s/NdXtEMM3mshyn-Au-3Zeyg)
 
 
 ### 📌 亚马逊云科技公众号转载
