@@ -68,6 +68,7 @@
 - [Coco AI 如何接入自定义数据源](https://mp.weixin.qq.com/s/218ozutc8kMmpyZBfKBJPg)
 - [MySQL 数据实时接入 Easysearch，零代码迁移全流程](https://mp.weixin.qq.com/s/YaB6fpqbLBhLQOzfpCUiGQ)
 - [从认证到透传：用 Nginx 为 Easysearch 构建一体化认证网关](https://mp.weixin.qq.com/s/NdXtEMM3mshyn-Au-3Zeyg)
+- [Easysearch 基础运维扫盲指南：从 HTTP 到 HTTPS、认证与安全访问全解析](https://mp.weixin.qq.com/s/HR7E7HAfS4ntpSkD_r5_Zw)
 
 
 ### 📌 亚马逊云科技公众号转载
