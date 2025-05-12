@@ -49,7 +49,7 @@
 - [轻松管理 ES 集群: 我把 Infinilabs Console 上架了懒猫微服，默认支持外网访问、TLS 加密和OIDC登录](https://mp.weixin.qq.com/s/fcUbP3EmtgmlOmZFy9Ix6w)
 - [懒猫微服实战入门（一）：从开启SSH到免密登录，一步步教你搞定远程管理](https://mp.weixin.qq.com/s/n2OS1DH-REi-QbwboQMSNQ)
 - [懒猫微服实战入门（二）: 打造多人协作环境：权限控制、数据隔离一步到位](https://mp.weixin.qq.com/s/UIKNhguz1D0RC2cHaZF3vg)
-- []()
+- [懒猫微服实战入门（三）: 懒猫智慧屏，我以为是地表最强电视盒子，结果竟然可以改装成闺蜜机？](https://mp.weixin.qq.com/s/s0FQCznwInn2IKukDL7Zpw)
 
 ------
 
