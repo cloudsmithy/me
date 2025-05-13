@@ -50,6 +50,7 @@
 - [懒猫微服实战入门（一）：从开启SSH到免密登录，一步步教你搞定远程管理](https://mp.weixin.qq.com/s/n2OS1DH-REi-QbwboQMSNQ)
 - [懒猫微服实战入门（二）: 打造多人协作环境：权限控制、数据隔离一步到位](https://mp.weixin.qq.com/s/UIKNhguz1D0RC2cHaZF3vg)
 - [懒猫微服实战入门（三）: 懒猫智慧屏，我以为是地表最强电视盒子，结果竟然可以改装成闺蜜机？](https://mp.weixin.qq.com/s/s0FQCznwInn2IKukDL7Zpw)
+- [懒猫微服实战入门（四）：完全DNS访问，和本地代理冲突了怎么办？](https://mp.weixin.qq.com/s/VwlgC8VvjiEor-_Lp9AGRA)
 
 ------
 
