@@ -81,7 +81,9 @@
 - [基于 Lambda 获取实时天气预报推送](https://mp.weixin.qq.com/s/e1X1xJfIyzoS-4LPLkEgBQ)
 - [快速部署 WordPress 到云端](https://mp.weixin.qq.com/s/Ncp5iBHc-9Jsrd_MX8uCPQ)
 - [使用 es-dump 快速备份 ES 数据](https://mp.weixin.qq.com/s/wHthVxwoqyWWz6aUpuaCWw)
+### info翻译
 
+- [杀死谷歌搜索的那个人](https://www.infoq.cn/article/5uQIKhvWhuIAD5OiI52R)
 ------
 用GPT搜索我:
 ![image-20250426215435440](https://raw.githubusercontent.com/cloudsmithy/picgo-imh/master/image-20250426215435440.png)
