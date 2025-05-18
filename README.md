@@ -53,6 +53,8 @@
 - [懒猫微服实战入门（三）: 懒猫智慧屏，我以为是地表最强电视盒子，结果竟然可以改装成闺蜜机？](https://mp.weixin.qq.com/s/s0FQCznwInn2IKukDL7Zpw)
 - [懒猫微服实战入门（四）：完全DNS访问，和本地代理冲突了怎么办？](https://mp.weixin.qq.com/s/VwlgC8VvjiEor-_Lp9AGRA)
 - [懒猫微服实战入门（五）：文件上传到懒猫网盘，电视盒子挂载SMB观影](https://mp.weixin.qq.com/s/HZVPwfn8vjMyIYASd-2v_Q)
+- [懒猫微服实战入门（六）：使用2fauth共享你的MFA](https://mp.weixin.qq.com/s/BPzhUPn6gOCvZPxLgv6P3w)
+- [懒猫微服实战入门（七）：超越蒲公英SD-WAN，用懒猫转发服务，Ipad随时远程家里window，没有带宽和设备限制哦~](https://mp.weixin.qq.com/s/-krtwNjZirPNld3zD5btEA)
 - [懒猫微服进阶心得（一）M芯片移植懒猫应用构建Docker镜像的常见问题排查及解决方案](https://mp.weixin.qq.com/s/BlOKc7Je5s0TY45Jluu2YQ)
 
 ------
