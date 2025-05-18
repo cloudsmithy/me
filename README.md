@@ -56,6 +56,7 @@
 - [懒猫微服实战入门（六）：使用2fauth共享你的MFA](https://mp.weixin.qq.com/s/BPzhUPn6gOCvZPxLgv6P3w)
 - [懒猫微服实战入门（七）：超越蒲公英SD-WAN，用懒猫转发服务，Ipad随时远程家里window，没有带宽和设备限制哦~](https://mp.weixin.qq.com/s/-krtwNjZirPNld3zD5btEA)
 - [懒猫微服进阶心得（一）M芯片移植懒猫应用构建Docker镜像的常见问题排查及解决方案](https://mp.weixin.qq.com/s/BlOKc7Je5s0TY45Jluu2YQ)
+- [懒猫微服炫技篇（一）：使用懒猫微服的穿透服务，车机使用DS music 远程听歌，黑群晖不用再洗白](https://mp.weixin.qq.com/s/8t8GETGI8XB0M9zTx0BThw)
 
 ------
 
