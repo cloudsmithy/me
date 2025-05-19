@@ -19,6 +19,7 @@
 - 🛠️ [GitHub 项目主页](https://github.com/Xu-Hardy)
 - [dockerhub](https://hub.docker.com/u/cloudsmithy)
 - 📚 [InfoQ 技术征文主页](https://www.infoq.cn/u/awscom/)
+- [懒猫论坛文集](https://playground.lazycat.cloud/#/user-profile/459/dynamic?routerAction=replace****)
 
 ------
 
