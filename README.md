@@ -109,6 +109,10 @@
 
 - [如何在 AWS EC2 上部署 Isaac Sim](https://mp.weixin.qq.com/s/0Y2LTwHAMGxave7C3jF3Ew)
 
+### milvus
+
+- [Milvus workshop Contributor](https://github.com/cloudsmithy/me/edit/master/README.md)
+
   
 ### info翻译
 
