@@ -111,7 +111,7 @@
 
 ### milvus
 
-- [Milvus workshop Contributor](https://github.com/cloudsmithy/me/edit/master/README.md)
+- [Milvus workshop Contributor](https://github.com/richzw/milvus-workshop)
 
   
 ### info翻译
