@@ -1,3 +1,4 @@
+# [repo](https://github.com/cloudsmithy/me)
 亚马逊云科技（AWS） Community Builders（AI）、亚马逊云科技（AWS）中国技领云博主、极限科技技术博主、Milvus 北辰使者，懒猫微服专栏作家。
 
 专注于 Python 后端开发与 AI 服务部署，熟练掌握亚马逊云科技（AWS）核心服务，包括 Lambda、API Gateway、SageMaker、Bedrock、OpenSearch 等，具备扎实的工程实践能力与系统架构经验。
@@ -49,6 +50,7 @@
 - [快速检索懒猫商店1000+应用，微服秒变Mac原生APP](https://mp.weixin.qq.com/s/FmFbblqZlg2ToUymw8sB5g)
 - [轻松管理 ES 集群: 我把 Infinilabs Console 上架了懒猫微服，默认支持外网访问、TLS 加密和OIDC登录](https://mp.weixin.qq.com/s/fcUbP3EmtgmlOmZFy9Ix6w)
 - [深度长文：NAS大降价的年代，我为何接受溢价来购买懒猫微服（附送回本攻略）](https://mp.weixin.qq.com/s/-5wqOQzbGmRDpA4mtiJ2rw)
+- [我用 Amazon Q 写了一个Docker客户端，并上架了懒猫微服商店](https://mp.weixin.qq.com/s/408CsSp5lPnIKgx-QIvR2A)
 - [懒猫微服实战入门（一）：从开启SSH到免密登录，一步步教你搞定远程管理](https://mp.weixin.qq.com/s/n2OS1DH-REi-QbwboQMSNQ)
 - [懒猫微服实战入门（二）: 打造多人协作环境：权限控制、数据隔离一步到位](https://mp.weixin.qq.com/s/UIKNhguz1D0RC2cHaZF3vg)
 - [懒猫微服实战入门（三）: 懒猫智慧屏，我以为是地表最强电视盒子，结果竟然可以改装成闺蜜机？](https://mp.weixin.qq.com/s/s0FQCznwInn2IKukDL7Zpw)
@@ -60,13 +62,18 @@
 - [懒猫微服实战入门（九）：给懒猫安装图形界面，使用 XRDP 实现远程桌面](https://mp.weixin.qq.com/s/FcfrxZ435cRAoBNqgL4EbA)
 - [懒猫微服实战入门（十）：使用 nmtui设置静态 IP，接入旁路由实现科学上网](https://mp.weixin.qq.com/s/mz6rGImGNSPmi8K7yWIs5Q)
 - [懒猫微服实战入门（十一）：一键换源指南：用 chsrc 开启丝滑体验](https://mp.weixin.qq.com/s/oL007MgSLUegflQ9hDbi2w)
+- [懒猫微服实战入门（十二）：用 iVentoy 打造你的 PXE 服务器](https://mp.weixin.qq.com/s/cbNDmoDYcKnAiCXjC_po1A)
+- [懒猫微服实战入门（十三）：懒猫穿透不只图形化，纯命令行服务器也可以](https://mp.weixin.qq.com/s/23TmEqH4rAPpm0Gt5ZTRcg)
 - [懒猫微服进阶心得（一）M芯片移植懒猫应用构建Docker镜像的常见问题排查及解决方案](https://mp.weixin.qq.com/s/BlOKc7Je5s0TY45Jluu2YQ)
 - [懒猫微服进阶心得（二）：一台机器跑三套 Docker？深入解析懒猫容器的共存机制（上）](https://mp.weixin.qq.com/s/_dXE0CxWvLgA5EX1sIft8Q)
 - [懒猫微服进阶心得（三）：一台机器跑三套 Docker？深入解析懒猫容器的共存机制（下）](https://mp.weixin.qq.com/s/QP7g9t9B2AVtAD_6CeFryw)
 - [懒猫微服进阶心得（四）：每次重启都丢配置？用 systemctl --user 自动装回环境！](https://mp.weixin.qq.com/s/IrQdNiBBl6qfiamZnQrSHA)
 - [懒猫微服进阶心得（五）：使用懒猫微服做Ventoy启动盘](https://mp.weixin.qq.com/s/IxIBDj9iG6K3xi_DSSOtqg)
+- [懒猫微服进阶心得（六）：以纸砚双拼为例，快速移植纯前端项目到懒猫微服](https://mp.weixin.qq.com/s/-aVpOgYkIThn0Xd56g-F4Q)
+- [懒猫微服进阶心得（七）：懒猫的镜像仓库](https://mp.weixin.qq.com/s/TUoLCEazMT2TIYekUcOI5g)
 - [懒猫微服炫技篇（一）：使用懒猫微服的穿透服务，车机使用DS music 远程听歌，黑群晖不用再洗白](https://mp.weixin.qq.com/s/8t8GETGI8XB0M9zTx0BThw)
 - [懒猫微服故事篇（一）：服务器宕机之后，我和前端靠懒猫微服结对编程](https://mp.weixin.qq.com/s/QFhTT-HGQ4If7jqrEeDwVA)
+- [懒猫微服故事篇（二）：西湖邂逅后，我手把手教她玩转NAS](https://mp.weixin.qq.com/s/60qatSMkkKLnip19l-vCNQ)
 
 ------
 
@@ -97,6 +104,12 @@
 - [基于 Lambda 获取实时天气预报推送](https://mp.weixin.qq.com/s/e1X1xJfIyzoS-4LPLkEgBQ)
 - [快速部署 WordPress 到云端](https://mp.weixin.qq.com/s/Ncp5iBHc-9Jsrd_MX8uCPQ)
 - [使用 es-dump 快速备份 ES 数据](https://mp.weixin.qq.com/s/wHthVxwoqyWWz6aUpuaCWw)
+
+### GPUS(Nvidia)
+
+- [如何在 AWS EC2 上部署 Isaac Sim](https://mp.weixin.qq.com/s/0Y2LTwHAMGxave7C3jF3Ew)
+
+  
 ### info翻译
 
 - [杀死谷歌搜索的那个人](https://www.infoq.cn/article/5uQIKhvWhuIAD5OiI52R)
