@@ -107,7 +107,7 @@
 
 ### GPUS(Nvidia)
 
-- [如何在 AWS EC2 上部署 Isaac Sim](https://mp.weixin.qq.com/s/0Y2LTwHAMGxave7C3jF3Ew)
+- [如何在 AWS EC2 上部署 Isaac Sim](https://mp.weixin.qq.com/s/5pwNlGVet_f3rRVasEUrmA)
 
 ### Milvus
 
