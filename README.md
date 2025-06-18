@@ -71,9 +71,11 @@
 - [懒猫微服进阶心得（五）：使用懒猫微服做Ventoy启动盘](https://mp.weixin.qq.com/s/IxIBDj9iG6K3xi_DSSOtqg)
 - [懒猫微服进阶心得（六）：以纸砚双拼为例，快速移植纯前端项目到懒猫微服](https://mp.weixin.qq.com/s/-aVpOgYkIThn0Xd56g-F4Q)
 - [懒猫微服进阶心得（七）：懒猫的镜像仓库](https://mp.weixin.qq.com/s/TUoLCEazMT2TIYekUcOI5g)
+- [懒猫微服进阶心得（八）：如何在 ARM 机器上下载并运行X86 Docker镜像以及在X86上运行ARM 架构 Docker](https://mp.weixin.qq.com/s/AwmL0PfMqk4tK1N3cPqChA)
 - [懒猫微服炫技篇（一）：使用懒猫微服的穿透服务，车机使用DS music 远程听歌，黑群晖不用再洗白](https://mp.weixin.qq.com/s/8t8GETGI8XB0M9zTx0BThw)
 - [懒猫微服故事篇（一）：服务器宕机之后，我和前端靠懒猫微服结对编程](https://mp.weixin.qq.com/s/QFhTT-HGQ4If7jqrEeDwVA)
 - [懒猫微服故事篇（二）：西湖邂逅后，我手把手教她玩转NAS](https://mp.weixin.qq.com/s/60qatSMkkKLnip19l-vCNQ)
+- [懒猫微服炫技篇（二）：使用懒猫微服倒推停电时间](https://mp.weixin.qq.com/s/uwnkkRVbjBDpv6qbP_y-0g)
 
 ------
 
